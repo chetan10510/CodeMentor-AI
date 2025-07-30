@@ -1,0 +1,22 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore model outputs and checkpoints
+model/
+logs/
+*.pt
+*.bin
+*.ckpt
+*.safetensors
+
+# Ignore system + temp files
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignore cache
+*.cache/
+*.log
+
+# Ignore Streamlit config if any
+.streamlit/

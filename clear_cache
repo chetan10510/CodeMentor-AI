@@ -1,0 +1,7 @@
+python -c "import torch; torch.cuda.empty_cache()"
+- clear torch caching obviously bruh
+
+
+Generate a random integer between 4 and 8 (inclusively)
+Write a SQL query to find the total number of orders placed between two given dates
+Create a program that can calculate the distance between two points in three-dimensional space.
