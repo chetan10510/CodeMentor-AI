@@ -4,12 +4,6 @@ CodeMentor AI is a fine-tuned language model specialized for solving **coding in
 
 ---
 
-##  Demo
-
-> Coming soon: [Render/HuggingFace Link]
-
----
-
 ##  Features
 
 -  Fine-tuned LLM using HuggingFace Transformers
@@ -58,9 +52,6 @@ CodeMentor-AI/
 ├── Dockerfile # Docker config
 ├── render.yaml # Optional Render deployment config
 
-yaml
-Copy
-Edit
 
 ---
 
